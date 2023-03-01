@@ -1,4 +1,4 @@
-## :cyclone: |	 Matheus Tonon
+## <img width="20px" src="https://www.svgrepo.com/show/294201/coding-programming-language.svg" />   Matheus Tonon
 
 **`Web Developer`**
 
