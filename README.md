@@ -10,8 +10,11 @@ My name is Matheus, and I am a Web Developer who loves building ideas and projec
 - I’m currently open for an Intern or a new job opportunity, this is [my resume](https://)
 
 <br>
-
+<div align="center">
+  
 [![GitHub Streak](https://streak-stats.demolab.com/?user=m-tonon&theme=dark)](https://git.io/streak-stats)
+
+</div>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 <br>
