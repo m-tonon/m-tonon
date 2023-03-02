@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=20&center=true&vCenter=true&width=600&height=50&lines=I+am+a+Front-End+Developer;"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=30&center=true&vCenter=true&width=600&height=50&lines=I+am+a+Front-End+Developer;"></a>
 </p>
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 30px></picture> **About me**
@@ -19,8 +19,7 @@ My name is Matheus, and I am a Web Developer who loves building ideas and projec
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 <br>
 
-<p align="center">
-
+<div align="center">
 <img align="left" alt="JavaScript" width="50px" style="padding-right:5px;" src="https://www.svgrepo.com/show/349419/javascript.svg" />
 <img align="left" alt="TypeScript" width="50px" style="padding-right:5px;" src="https://www.svgrepo.com/show/349540/typescript.svg" />
 <img align="left" alt="NodeJS" width="50px" style="padding-right:10px;" src="https://www.svgrepo.com/show/378837/node.svg" />
@@ -32,7 +31,12 @@ My name is Matheus, and I am a Web Developer who loves building ideas and projec
 <img align="left" alt="MongoDB" width="50px" style="padding-right:10px;" src="https://www.svgrepo.com/show/331488/mongodb.svg" />
 <img align="left" alt="MySQL" width="50px" style="padding-right:10px;" src="https://www.svgrepo.com/show/373848/mysql.svg" />
 
-<br><br>
+</div>
+
+<br><br><br>
+<hr>
+<br>
+
 ## Github Stats:
 
 <p align="center">
