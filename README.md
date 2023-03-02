@@ -7,7 +7,7 @@
 My name is Matheus, and I am a Web Developer who loves building ideas and projects & looking for establish my skills and knowledge in the tech world.
 - Currently graduating Analysis and Development of Systems
 - Personal website [link](https://m-tonon.github.io/portfolio/)
-- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://)
+- I’m currently open for a new job opportunity, this is [my resume](https://)
 
 <br>
 <div align="center">
@@ -19,23 +19,20 @@ My name is Matheus, and I am a Web Developer who loves building ideas and projec
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 <br>
 
-<div align="center">
-<img align="left" alt="JavaScript" width="50px" style="padding-right:5px;" src="https://www.svgrepo.com/show/349419/javascript.svg" />
-<img align="left" alt="TypeScript" width="50px" style="padding-right:5px;" src="https://www.svgrepo.com/show/349540/typescript.svg" />
-<img align="left" alt="NodeJS" width="50px" style="padding-right:10px;" src="https://www.svgrepo.com/show/378837/node.svg" />
-<img align="left" alt="Angular" width="50px" style="padding-right:10px;" src="https://www.svgrepo.com/show/353396/angular-icon.svg" />
-<img align="left" alt="HTML" width="50px" style="padding-right:10px;" src="https://www.svgrepo.com/show/349402/html5.svg" />
-<img align="left" alt="CSS" width="50px" style="padding-right:10px;" src="https://www.svgrepo.com/show/373535/css.svg" />
-<img align="left" alt="Git" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="GitHub" width="50px" style="padding-right:10px;" src="https://www.svgrepo.com/show/439171/github.svg" />
-<img align="left" alt="MongoDB" width="50px" style="padding-right:10px;" src="https://www.svgrepo.com/show/331488/mongodb.svg" />
-<img align="left" alt="MySQL" width="50px" style="padding-right:10px;" src="https://www.svgrepo.com/show/373848/mysql.svg" />
+<div align="left">
 
+<img width="40px" style="padding-right:10px;" src="https://www.svgrepo.com/show/349419/javascript.svg" />
+<img width="40px" style="padding-right:10px;" src="https://www.svgrepo.com/show/378837/node.svg" />
+<img width="40px" style="padding-right:10px;" src="https://www.svgrepo.com/show/349540/typescript.svg" />
+<img width="40px" style="padding-right:10px;" src="https://www.svgrepo.com/show/353396/angular-icon.svg" />
+<img width="37px" style="padding-right:10px;" src="https://www.svgrepo.com/show/349402/html5.svg" />
+<img width="40px" style="padding-right:10px;" src="https://www.svgrepo.com/show/373535/css.svg" />
+<img width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img width="40px" style="padding-right:10px;" src="https://www.svgrepo.com/show/439171/github.svg" />
+<img width="40px" style="padding-right:10px;" src="https://www.svgrepo.com/show/331488/mongodb.svg" />
+<img width="40px" style="padding-right:10px;" src="https://www.svgrepo.com/show/373848/mysql.svg" />
+  
 </div>
-
-<br><br><br>
-<hr>
-<br>
 
 ## Github Stats:
 
