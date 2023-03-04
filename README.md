@@ -7,7 +7,7 @@
 My name is Matheus, and I am a Web Developer who loves building ideas and projects & looking for establish my skills and knowledge in the tech world.
 - Currently graduating Analysis and Development of Systems
 - Personal website [link](https://m-tonon.github.io/portfolio/)
-- I’m currently open for a new job opportunity, this is [my resume](https://)
+- I’m currently open for a new job opportunity, this is [my resume](https://drive.google.com/file/d/11iKt7UTIPlktjD-7-6f97c6261jDlbKN/view?usp=drivesdk)
 
 <br>
 <div align="center">
