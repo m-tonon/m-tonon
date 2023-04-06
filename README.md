@@ -28,6 +28,8 @@ My name is Matheus, and I am a Web Developer who loves building ideas and projec
 <img width="40px" style="padding-right:10px;" src="https://www.svgrepo.com/show/353396/angular-icon.svg" />
 <img width="37px" style="padding-right:10px;" src="https://www.svgrepo.com/show/349402/html5.svg" />
 <img width="40px" style="padding-right:10px;" src="https://www.svgrepo.com/show/373535/css.svg" />
+<img width="40px" style="padding-right:10px;" src="https://www.svgrepo.com/show/374118/tailwind.svg" />
+  
 
 <b>Tools:</b>
 <br><br>
