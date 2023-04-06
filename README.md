@@ -17,20 +17,27 @@ My name is Matheus, and I am a Web Developer who loves building ideas and projec
 </div>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
-<br>
 
 <div align="left">
 
+<b>Languages:</b>
+<br><br>
 <img width="40px" style="padding-right:10px;" src="https://www.svgrepo.com/show/349419/javascript.svg" />
 <img width="40px" style="padding-right:10px;" src="https://www.svgrepo.com/show/378837/node.svg" />
 <img width="40px" style="padding-right:10px;" src="https://www.svgrepo.com/show/349540/typescript.svg" />
 <img width="40px" style="padding-right:10px;" src="https://www.svgrepo.com/show/353396/angular-icon.svg" />
 <img width="37px" style="padding-right:10px;" src="https://www.svgrepo.com/show/349402/html5.svg" />
 <img width="40px" style="padding-right:10px;" src="https://www.svgrepo.com/show/373535/css.svg" />
+
+<b>Tools:</b>
+<br><br>
 <img width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img width="40px" style="padding-right:10px;" src="https://www.svgrepo.com/show/439171/github.svg" />
 <img width="40px" style="padding-right:10px;" src="https://www.svgrepo.com/show/331488/mongodb.svg" />
 <img width="40px" style="padding-right:10px;" src="https://www.svgrepo.com/show/373848/mysql.svg" />
+<img width="40px" style="padding-right:10px;" src="https://www.svgrepo.com/show/353630/cypress.svg" />
+<img width="40px" style="padding-right:10px;" src="https://www.svgrepo.com/show/452241/jira.svg" />
+
   
 </div>
 
