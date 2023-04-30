@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=30&center=true&vCenter=true&width=600&height=50&lines=I+am+a+Front-End+Developer;"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Sources+Sans+Pro&color=cyan&size=30&center=true&vCenter=true&width=600&height=50&lines=I+am+a+Front-End+Developer;"></a>
 </p>
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 30px></picture> **About me**
@@ -48,7 +48,7 @@ My name is Matheus, and I am a Web Developer who loves building ideas and projec
 <p align="center">
   
   <img src="https://github-readme-stats.vercel.app/api?username=m-tonon&count_private=true&show_icons=true&theme=dracula&line_height=33">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-tonon&count_private=true&hide=html,scss,ejs&theme=dracula&line_height=10">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-tonon&count_private=true&hide=html,scss,ejs,php&theme=dracula&line_height=10">
 
 </p>
 
