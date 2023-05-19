@@ -26,9 +26,9 @@ My name is Matheus, and I am a Web Developer who loves building ideas and projec
 <img width="40px" style="padding-right:10px;" src="https://www.svgrepo.com/show/378837/node.svg" />
 <img width="40px" style="padding-right:10px;" src="https://www.svgrepo.com/show/349540/typescript.svg" />
 <img width="40px" style="padding-right:10px;" src="https://www.svgrepo.com/show/353396/angular-icon.svg" />
-<img width="37px" style="padding-right:10px;" src="https://www.svgrepo.com/show/349402/html5.svg" />
-<img width="40px" style="padding-right:10px;" src="https://www.svgrepo.com/show/373535/css.svg" />
 <img width="40px" style="padding-right:10px;" src="https://www.svgrepo.com/show/374118/tailwind.svg" />
+<img width="40px" style="padding-right:10px;" src="https://www.svgrepo.com/show/353622/c-sharp.svg" />
+<img width="40px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/512px-.NET_Core_Logo.svg.png" />
   
 
 <b>Tools:</b>
@@ -48,7 +48,7 @@ My name is Matheus, and I am a Web Developer who loves building ideas and projec
 <p align="center">
   
   <img src="https://github-readme-stats.vercel.app/api?username=m-tonon&count_private=true&show_icons=true&theme=dracula&line_height=33">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-tonon&count_private=true&hide=html,scss,ejs,php&theme=dracula&line_height=10">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-tonon&count_private=true&hide=html,scss,ejs,vue,php&theme=dracula&line_height=10">
 
 </p>
 
