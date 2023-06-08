@@ -1,13 +1,13 @@
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Sources+Sans+Pro&color=cyan&size=30&center=true&vCenter=true&width=600&height=50&lines=I+am+a+Front-End+Developer;"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Sources+Sans+Pro&duration=2000&color=cyan&size=30&center=true&vCenter=true&width=600&height=50&lines=Full+Stack+Web+Developer;Front-End+Angular;Back-End+ASP.Net+Core;SQL+and+NoSQL+Databases;Cypress.io+Testing+Tool"></a>
 </p>
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 30px></picture> **About me**
 
-My name is Matheus, and I am a Web Developer who loves building ideas and projects & looking for establish my skills and knowledge in the tech world.
-- Currently graduating Analysis and Development of Systems
+I am passionate Web Developer with a drive for continuous growth. Quick learner, dedicated to delivering high-quality work. Pursuing relevant degree, gaining practical experience. Motivated by creating impactful web experiences. Unique combination of skills, enthusiasm, and commitment. Thrives in dynamic environments, tackles challenges head-on. Loves building ideas and projects. Looking for establish my skills and knowledge in the tech world.
+
 - Personal website [link](https://m-tonon.github.io/portfolio/)
-- I’m currently open for a new job opportunity, this is [my resume](https://drive.google.com/file/d/11iKt7UTIPlktjD-7-6f97c6261jDlbKN/view?usp=drivesdk)
+- I’m currently open for a new job opportunity, this is [my resume](https://drive.google.com/file/d/1vGyf_vaElTRMLogwhzq0khhtAjym9m7r/view?usp=drive_link)
 
 <br>
 <div align="center">
@@ -37,6 +37,7 @@ My name is Matheus, and I am a Web Developer who loves building ideas and projec
 <img width="40px" style="padding-right:10px;" src="https://www.svgrepo.com/show/439171/github.svg" />
 <img width="40px" style="padding-right:10px;" src="https://www.svgrepo.com/show/331488/mongodb.svg" />
 <img width="40px" style="padding-right:10px;" src="https://www.svgrepo.com/show/373848/mysql.svg" />
+<img width="40px" style="padding-right:10px;" src="https://www.svgrepo.com/show/354200/postgresql.svg" />
 <img width="40px" style="padding-right:10px;" src="https://www.svgrepo.com/show/353630/cypress.svg" />
 <img width="40px" style="padding-right:10px;" src="https://www.svgrepo.com/show/452241/jira.svg" />
 
