@@ -1,13 +1,13 @@
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Sources+Sans+Pro&duration=2000&color=cyan&size=30&center=true&vCenter=true&width=600&height=50&lines=Full+Stack+Web+Developer;Front-End+Angular;Back-End+ASP.Net+Core;SQL+and+NoSQL+Databases;Cypress.io+Testing+Tool"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Sources+Sans+Pro&duration=2000&color=cyan&size=30&center=true&vCenter=true&width=600&height=50&lines=Full+Stack+Web+Developer;Front+End+Angular;Back-End+ASP.Net+Core;SQL+Databases;Cypress.io+Testing+Tool"></a>
 </p>
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 30px></picture> **About me**
 
 I am passionate Web Developer with a drive for continuous growth. Quick learner, dedicated to delivering high-quality work. Pursuing relevant degree, gaining practical experience. Motivated by creating impactful web experiences. Unique combination of skills, enthusiasm, and commitment. Thrives in dynamic environments, tackles challenges head-on. Loves building ideas and projects. Looking for establish my skills and knowledge in the tech world.
 
-- Personal website [link](https://m-tonon.github.io/portfolio/)
-- I’m currently open for a new job opportunity, this is [my resume](https://drive.google.com/file/d/1vGyf_vaElTRMLogwhzq0khhtAjym9m7r/view?usp=drive_link)
+- Personal website [link](https://mtonon-portfolio.vercel.app/)
+- I’m currently open for a new job opportunity, this is [my resume](https://drive.google.com/file/d/1JCm3u-cjFtU9kSZktkbC4nh8uQ0B3YkO/view)
 
 <br>
 <div align="center">
@@ -26,7 +26,6 @@ I am passionate Web Developer with a drive for continuous growth. Quick learner,
 <img width="40px" style="padding-right:10px;" src="https://www.svgrepo.com/show/378837/node.svg" />
 <img width="40px" style="padding-right:10px;" src="https://www.svgrepo.com/show/349540/typescript.svg" />
 <img width="40px" style="padding-right:10px;" src="https://www.svgrepo.com/show/353396/angular-icon.svg" />
-<img width="40px" style="padding-right:10px;" src="https://www.svgrepo.com/show/374118/tailwind.svg" />
 <img width="40px" style="padding-right:10px;" src="https://www.svgrepo.com/show/353622/c-sharp.svg" />
 <img width="40px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/512px-.NET_Core_Logo.svg.png" />
   
@@ -37,9 +36,11 @@ I am passionate Web Developer with a drive for continuous growth. Quick learner,
 <img width="40px" style="padding-right:10px;" src="https://www.svgrepo.com/show/439171/github.svg" />
 <img width="40px" style="padding-right:10px;" src="https://www.svgrepo.com/show/331488/mongodb.svg" />
 <img width="40px" style="padding-right:10px;" src="https://www.svgrepo.com/show/373848/mysql.svg" />
-<img width="40px" style="padding-right:10px;" src="https://www.svgrepo.com/show/354200/postgresql.svg" />
+<img width="40px" style="padding-right:10px;" src="https://www.svgrepo.com/show/354200/postgresql.svg" /><br>
 <img width="40px" style="padding-right:10px;" src="https://www.svgrepo.com/show/353630/cypress.svg" />
 <img width="40px" style="padding-right:10px;" src="https://www.svgrepo.com/show/452241/jira.svg" />
+<img width="40px" style="padding-right:10px;" src="https://www.svgrepo.com/show/374118/tailwind.svg" />
+<img width="40px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/800px-Bootstrap_logo.svg.png" />
 
   
 </div>
