@@ -4,10 +4,9 @@
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 30px></picture> **About me**
 
-I am passionate Web Developer with a drive for continuous growth. Quick learner, dedicated to delivering high-quality work. Pursuing relevant degree, gaining practical experience. Motivated by creating impactful web experiences. Unique combination of skills, enthusiasm, and commitment. Thrives in dynamic environments, tackles challenges head-on. Loves building ideas and projects. Looking for establish my skills and knowledge in the tech world.
+Passionate Full Stack Developer with a drive for continuous growth. Quick learner, dedicated to delivering high-quality work. Pursuing relevant degree, gaining practical experience. Motivated by creating impactful web experiences. Unique combination of skills, enthusiasm, and commitment. Thrives in dynamic environments, tackles challenges head-on. Loves building ideas and projects. Looking for establish my skills and knowledge in the tech world.
 
-- Personal website [link](https://mtonon-portfolio.vercel.app/)
-- I’m currently open for a new job opportunity, this is [my resume](https://drive.google.com/file/d/1JCm3u-cjFtU9kSZktkbC4nh8uQ0B3YkO/view)
+My Portfolio: [link](https://mtonon-portfolio.vercel.app/)
 
 <br>
 <div align="center">
