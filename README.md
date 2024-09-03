@@ -21,25 +21,25 @@ My Portfolio: [link](https://mtonon-portfolio.vercel.app/)
 
 <b>Languages:</b>
 <br><br>
-<img width="40px" style="padding-right:10px;" src="https://www.svgrepo.com/show/349419/javascript.svg" />
-<img width="40px" style="padding-right:10px;" src="https://www.svgrepo.com/show/378837/node.svg" />
-<img width="40px" style="padding-right:10px;" src="https://www.svgrepo.com/show/349540/typescript.svg" />
-<img width="40px" style="padding-right:10px;" src="https://www.svgrepo.com/show/353396/angular-icon.svg" />
-<img width="40px" style="padding-right:10px;" src="https://www.svgrepo.com/show/353622/c-sharp.svg" />
-<img width="40px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/512px-.NET_Core_Logo.svg.png" />
-  
+<img title="Angular" width="40px" style="padding-right:30px;" src="https://www.svgrepo.com/show/353396/angular-icon.svg" />
+<img title="TypeScript" width="40px" style="padding-right:30px;" src="https://www.svgrepo.com/show/349540/typescript.svg" />
+<img title="Node" width="40px" style="padding-right:30px;" src="https://www.svgrepo.com/show/378837/node.svg" />
+<img title="C-Sharp" width="40px" style="padding-right:30px;" src="https://www.svgrepo.com/show/353622/c-sharp.svg" />
+<img title=".NET" width="40px" style="padding-right:30px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/512px-.NET_Core_Logo.svg.png" />
+<img title="Flutter" width="40px" style="padding-right:30px;" src="https://www.svgrepo.com/show/373604/flutter.svg" />
+<hr width="32%" height=".05em" >
 
 <b>Tools:</b>
 <br><br>
-<img width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img width="40px" style="padding-right:10px;" src="https://www.svgrepo.com/show/439171/github.svg" />
-<img width="40px" style="padding-right:10px;" src="https://www.svgrepo.com/show/331488/mongodb.svg" />
-<img width="40px" style="padding-right:10px;" src="https://www.svgrepo.com/show/373848/mysql.svg" />
-<img width="40px" style="padding-right:10px;" src="https://www.svgrepo.com/show/354200/postgresql.svg" /><br>
-<img width="40px" style="padding-right:10px;" src="https://www.svgrepo.com/show/353630/cypress.svg" />
-<img width="40px" style="padding-right:10px;" src="https://www.svgrepo.com/show/452241/jira.svg" />
-<img width="40px" style="padding-right:10px;" src="https://www.svgrepo.com/show/374118/tailwind.svg" />
-<img width="40px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/800px-Bootstrap_logo.svg.png" />
+<img title="Git" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img title="GitHub" width="40px" style="padding-right:10px;" src="https://www.svgrepo.com/show/439171/github.svg" />
+<img title="MongoDb" width="40px" style="padding-right:10px;" src="https://www.svgrepo.com/show/331488/mongodb.svg" />
+<img title="SQL Server" width="40px" style="padding-right:10px;" src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" />
+<img title="Google Cloud" width="40px" style="padding-right:10px;" src="https://www.svgrepo.com/show/353805/google-cloud.svg" /><br>
+<img title="Cypress" width="40px" style="padding-right:10px;" src="https://www.svgrepo.com/show/353630/cypress.svg" />
+<img title="Jira" width="40px" style="padding-right:10px;" src="https://www.svgrepo.com/show/452241/jira.svg" />
+<img title="Tailwind" width="40px" style="padding-right:10px;" src="https://www.svgrepo.com/show/374118/tailwind.svg" />
+<img title="Bootstrap" width="40px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/800px-Bootstrap_logo.svg.png" />
 
   
 </div>
