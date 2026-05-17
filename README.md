@@ -4,13 +4,13 @@
 
 ## <picture><img src = "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjdqMG5senptbHd4MXN2dHFzajNydDgxMWY5NXR6ZWluaTlqNmdmcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/JmOi2zdGSIZcF8WYvF/giphy.gif" width = 30px></picture> **About me**
 
-Full Stack Engineer with 2+ years of experience building and maintaining production systems — working remotely on an international team.
+Full Stack Engineer with 3+ years of experience building and maintaining production systems — working remotely on an international team.
 
-I'm strongest in Angular and .NET, but I work across the full stack — React, Next.js, Node.js, GCP, and whatever the project needs. I care about clean architecture, reliable integrations, and code that other developers can actually work with.
+I'm strongest in Angular and .NET, but I work across the full stack — React, Next.js, Node.js, Python, GCP, and whatever the project needs. I care about clean architecture, reliable integrations, and code that other developers can actually work with.
 
 Always learning. Always building.
 
-My Portfolio: [mtonon-portfolio.vercel.app](https://mtonon-portfolio.vercel.app/)
+My Resume: https://shorturl.at/Kk1O4
 
 <br>
 
@@ -26,6 +26,7 @@ My Portfolio: [mtonon-portfolio.vercel.app](https://mtonon-portfolio.vercel.app/
 <img title="Node" width="40px" src="https://www.svgrepo.com/show/378837/node.svg" />&nbsp;&nbsp;&nbsp;
 <img title="C-Sharp" width="40px" src="https://www.svgrepo.com/show/353622/c-sharp.svg" />&nbsp;&nbsp;&nbsp;
 <img title=".NET" width="40px" src="https://icon.icepanel.io/Technology/svg/.NET-core.svg" />&nbsp;&nbsp;&nbsp;
+<img title="Python" width="40px" src="https://www.svgrepo.com/show/452091/python.svg" />&nbsp;&nbsp;
 <img title="Flutter" width="40px" src="https://www.svgrepo.com/show/373604/flutter.svg" />
 <br><br>
 <b>Tools & Infrastructure:</b>
